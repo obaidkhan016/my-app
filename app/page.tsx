@@ -1,5 +1,6 @@
 "use client";
 
+import { Suspense } from "react";
 import { Assistant } from "./assistant";
 
 export default function Home() {
@@ -16,9 +17,11 @@ export default function Home() {
             <div className="absolute -bottom-[10%] -right-[10%] h-[40%] w-[40%] rounded-full bg-purple-500/5 blur-[120px]" />
           </div>
 
-          {/* AI Assistant Component */}
+          {/* AI Assistant Component wrapped in Suspense */}
           <div className="flex-1">
-            <Assistant />
+            <Suspense fallback={<div>Loading Assistant...</div>}>
+              <Assistant />
+            </Suspense>
           </div>
 
         </div>
