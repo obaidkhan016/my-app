@@ -1,0 +1,13 @@
+[00:00:02.051] Server  LOG     ✓ Ready in 1430ms
+[00:00:06.480] Server  LOG     ○ Compiling / ...
+[00:00:06.985] Server  WARN    ⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+[00:00:07.334] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:07.508] Browser LOG     📋 Loaded chats: 0
+[00:00:07.508] Browser LOG     📋 Loaded chats: 0
+[00:00:07.508] Browser LOG     📋 Loaded chats: 0
+[00:00:07.669] Browser LOG     📋 Loaded chats: 0
+[00:00:07.669] Browser LOG     📋 Loaded chats: 0
+[00:00:11.770] Browser LOG     📋 Loaded chats: 0
+[00:00:15.049] Browser LOG     📋 Loaded chats: 0
+[00:00:17.687] Browser LOG     📋 Loaded chats: 0
+[00:01:00.661] Browser LOG     📋 Loaded chats: 0
